@@ -1,0 +1,11 @@
+45678,Joe,Smith,unknown,student,323-23-5666,js@cub.uca.edu,,45689,34590
+45689,Holly,Henley,good,student,345-67-8934,hh@cub.uca.edu,,57890,13579,23589
+18000,Long,La,good,student,312-54-6689,ll@cub.uca.edu,,57890,34590,13579
+01235,Chloe,Trinh,unknown,student,523-37-8769,ct@cub.uca.edu,,45689,89102
+01234,Mary,Jones,infected,student,123-45-6789,mj@cub.uca.edu,,45678,89101,34590
+57890,Jessie,River,infected,instructor,658-75-8134,jr@uca.edu,,45678
+34590,John,Dirk,infected,student,623-34-2399,jd@cub.uca.edu,,13579,01235,57890
+89102,Yu,Ton,good,instructor,313-53-5696,yt@uca.edu,,01235
+23589,Dan,Williams,good,instructor,501-24-2379,dw@uca.edu,,70012
+89101,Alven,Chipmonk,good,instructor,212-33-6978,ac@uca.edu,,45678,45689,13579,57890
+13579,Doris,Day,unknown,instructor,658-45-9234,dd@uca.edu,,01235,89102,34590
